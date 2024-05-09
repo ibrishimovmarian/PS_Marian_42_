@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WelcomeExtended": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
